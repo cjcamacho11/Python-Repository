@@ -1,5 +1,5 @@
-#xgv3cj Christian Camacho Evan Schmader ems6rm
-'''The game we are creating will be Space Invaders
+#xgv3cj Christian Camacho
+'''The game created will be Space Invaders.
 Like the traditional game, it will consist of a space ship that
 will be controlled by the user. There will then be rows of alien ships.
 Our goal is to create multiple levels with the difficulty increasing. '''
